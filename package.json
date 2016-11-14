@@ -1,0 +1,21 @@
+{
+  "name": "observable-object",
+  "version": "1.0.0",
+  "description": "An object that fires an event to registered listeners when its state changed",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangld/observable-object.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "observable",
+    "json",
+    "observer",
+    "listener"
+  ],
+  "author": "Quang Le <me@quangld.com>",
+  "license": "MIT"
+}
