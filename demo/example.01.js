@@ -1,4 +1,4 @@
-const ObserableObject = require('../index.js')
+const ObserableObject = require('observable-object')
 
 var a = new ObserableObject({a: 1, b: 2, c: [3]})
 
